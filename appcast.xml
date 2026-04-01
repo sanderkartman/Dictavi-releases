@@ -15,8 +15,8 @@
             <sparkle:releaseNotesLink>https://github.com/sanderkartman/Dictavi-releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
             <enclosure
                 url="https://github.com/sanderkartman/Dictavi-releases/releases/download/v1.0.0/Dictavi-1.0.0.dmg"
-                sparkle:edSignature="PZBBF5Kf1aKBrBrW6X0gLM7YgqOhOzhKtT2RNNSeEgOt6ymb/95O0pu7yRdTIG3KjuO9juA0yf/eiOy4K/F+AQ=="
-                length="6774656"
+                sparkle:edSignature="REPLACE_WITH_sign_update_output"
+                length="0"
                 type="application/octet-stream"
             />
         </item>
